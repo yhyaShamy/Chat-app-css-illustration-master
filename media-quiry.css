@@ -75,6 +75,11 @@
     /* FONT-SIZE :6 PX; */
     font-size: 37.5%;
   }
+  .iphone::before {
+    width: 70%;
+    height: 90%;
+    left: -14%;
+  }
 }
 
 /*BELOW 320 PX */

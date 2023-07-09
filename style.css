@@ -363,7 +363,7 @@ input::placeholder {
   border-top-right-radius: 40rem;
   opacity: 3%;
 }
-.text-box {
+.text-box p{
   font-size: 1.4rem;
 }
 .attribution {

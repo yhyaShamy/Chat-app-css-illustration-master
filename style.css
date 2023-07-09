@@ -119,8 +119,8 @@ body {
 .iphone::before {
   content: "";
   position: absolute;
-  width: 40%;
   height: 180%;
+  width: 40%;
   background-image: linear-gradient(
     to bottom,
     hsl(293, 100%, 63%),

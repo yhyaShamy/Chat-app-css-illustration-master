@@ -340,6 +340,9 @@ input::placeholder {
 .text-box {
   align-self: center;
 }
+.text-box p {
+  font-size: 1.4rem;
+}
 .text-box-header {
   font-size: 3.6rem;
   color: hsl(271, 36%, 24%);
@@ -362,9 +365,6 @@ input::placeholder {
   border-top-left-radius: 40rem;
   border-top-right-radius: 40rem;
   opacity: 3%;
-}
-.text-box p {
-  font-size: 1.4rem;
 }
 .attribution {
   margin-top: 1.6rem;

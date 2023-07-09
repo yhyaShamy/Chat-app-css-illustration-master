@@ -1,0 +1,28 @@
+/* 400px */
+@media (max-width: 25em) {
+  html {
+    /* 8px / 16 = 0.5 */
+    font-size: 60%;
+  }
+  .main-grid {
+    grid-template-columns: 1fr;
+    width: 100vw;
+  }
+  .iphone::before {
+    width: 50rem;
+    height: 90rem;
+    top: -30%;
+    left: -70%;
+  }
+  .container {
+    max-width: 33rem;
+    margin: 10rem auto;
+  }
+  .app-img {
+    border-radius: 20px;
+  }
+  .text-box::after {
+    top: 101%;
+    right: -141%;
+  }
+}
